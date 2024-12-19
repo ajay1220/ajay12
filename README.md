@@ -1,6 +1,6 @@
 # ajay12
-Hello, world! This is my profile. It's nice to meet you.
-<h2 align="left">Hi 👋! My Ajay Lakhara is software development I'm a study BE (ECE) , from Ahmedabad<br>City in Gujarat</h2>
+
+<h2 align="left">Hello, world! This is my profile. It's nice to meet you."Hi, My name is Ajay Lakhara and I'm currently based in Ahmedabad, India. I'm a software developer with a strong passion for Python, CSS,HTML. I haveb BE in a EC and enjoy Hobbies cricket,chess."<br>City in Gujarat</h2>
 
 ###
 
